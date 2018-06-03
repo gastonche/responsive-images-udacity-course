@@ -1,0 +1,35 @@
+/*
+
+Your styles go here!
+
+Hint! You'll probably want to start by styling:
+  * <body>
+  * <article>
+  * <h1>
+  * <img>
+
+I've left some boilerplate below for you.
+
+*/
+
+body {
+
+}
+
+article {
+  width: 50em;
+  margin: auto;
+}
+
+h1 {
+  width: 25em;
+  margin: 10px auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+footer{
+  border-top: 3px dashed chocolate;
+}
